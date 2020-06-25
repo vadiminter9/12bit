@@ -1,7 +1,7 @@
 # 12bit
 A fictional game console that could appear in the interval between Nes 8 (bit) and Sega (16 bit).
 We are trying to create games for that console and framework for game developing.
-We use js and html camnvas for development.
+We use js and html canvas for development.
 
 Specification of the console:
 - Screen resolution: 320 x 180;
