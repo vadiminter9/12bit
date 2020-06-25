@@ -7,3 +7,5 @@ Specification of the console:
 - Screen resolution: 320 x 180;
 - 12 color can be shown on screen simultaniously;
 - 512 colors palete. Each color can be specified using 4 bit length number (12 bit in total for all 3 colors);
+
+Feel free to share your ideas at vadiminte9@gmail.com
